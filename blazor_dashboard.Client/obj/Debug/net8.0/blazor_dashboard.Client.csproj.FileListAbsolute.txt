@@ -1026,3 +1026,4 @@ C:\Users\neilr\OneDrive\professional\development\portfolio\blazor_dashboard\blaz
 C:\Users\neilr\OneDrive\professional\development\portfolio\blazor_dashboard\blazor_dashboard.Client\obj\Debug\net8.0\refint\blazor_dashboard.Client.dll
 C:\Users\neilr\OneDrive\professional\development\portfolio\blazor_dashboard\blazor_dashboard.Client\obj\Debug\net8.0\blazor_dashboard.Client.pdb
 C:\Users\neilr\OneDrive\professional\development\portfolio\blazor_dashboard\blazor_dashboard.Client\obj\Debug\net8.0\ref\blazor_dashboard.Client.dll
+C:\Users\neilr\OneDrive\professional\development\portfolio\blazor_dashboard\blazor_dashboard.Client\obj\Debug\net8.0\blazor_dashboard.Client.sourcelink.json
