@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\neilr\\OneDrive\\professional\\development\\portfolio\\blazor_dashboard\\blazor_dashboard\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\blazor_dashboard.bundle.scp.css",
+      "PackagePath": "staticwebassets\\blazor_dashboard.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\neilr\\OneDrive\\professional\\development\\portfolio\\blazor_dashboard\\blazor_dashboard\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\neilr\\OneDrive\\professional\\development\\portfolio\\blazor_dashboard\\blazor_dashboard\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\neilr\\OneDrive\\professional\\development\\portfolio\\blazor_dashboard\\blazor_dashboard\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\neilr\\OneDrive\\professional\\development\\portfolio\\blazor_dashboard\\blazor_dashboard\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.blazor_dashboard.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.blazor_dashboard.props",
+      "PackagePath": "build\\blazor_dashboard.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.blazor_dashboard.props",
+      "PackagePath": "buildMultiTargeting\\blazor_dashboard.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.blazor_dashboard.props",
+      "PackagePath": "buildTransitive\\blazor_dashboard.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
