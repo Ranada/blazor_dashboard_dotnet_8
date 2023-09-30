@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "r8CJs6/ARV6D3GivITmUZdeWaVHXAkemyflhpZ4LNe7Sr34cI3jP/tGdPkUxbhYT93va/jwaI2FHUAPJ/wfOhg==",
+  "dgSpecHash": "CD6upRL/H3VN2+Au/LCGI3k3EiQrYZBH0QgdmviFYbMHn7uiAZP0Smxe6kV5q4l/d/HAvphXjPtZj4RM2anVXw==",
   "success": true,
   "projectFilePath": "C:\\Users\\neilr\\OneDrive\\professional\\development\\portfolio\\blazor_dashboard\\blazor_dashboard\\blazor_dashboard.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,9 @@
     "C:\\Users\\neilr\\.nuget\\packages\\microsoft.aspnetcore.components.web\\8.0.0-rc.1.23421.29\\microsoft.aspnetcore.components.web.8.0.0-rc.1.23421.29.nupkg.sha512",
     "C:\\Users\\neilr\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\8.0.0-rc.1.23421.29\\microsoft.aspnetcore.components.webassembly.8.0.0-rc.1.23421.29.nupkg.sha512",
     "C:\\Users\\neilr\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.server\\8.0.0-rc.1.23421.29\\microsoft.aspnetcore.components.webassembly.server.8.0.0-rc.1.23421.29.nupkg.sha512",
+    "C:\\Users\\neilr\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.11\\microsoft.aspnetcore.cryptography.internal.7.0.11.nupkg.sha512",
+    "C:\\Users\\neilr\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.11\\microsoft.aspnetcore.cryptography.keyderivation.7.0.11.nupkg.sha512",
+    "C:\\Users\\neilr\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\7.0.11\\microsoft.aspnetcore.identity.entityframeworkcore.7.0.11.nupkg.sha512",
     "C:\\Users\\neilr\\.nuget\\packages\\microsoft.aspnetcore.metadata\\8.0.0-rc.1.23421.29\\microsoft.aspnetcore.metadata.8.0.0-rc.1.23421.29.nupkg.sha512",
     "C:\\Users\\neilr\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\neilr\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
@@ -39,6 +42,8 @@
     "C:\\Users\\neilr\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\8.0.0-rc.1.23419.4\\microsoft.extensions.fileproviders.abstractions.8.0.0-rc.1.23419.4.nupkg.sha512",
     "C:\\Users\\neilr\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\8.0.0-rc.1.23419.4\\microsoft.extensions.fileproviders.physical.8.0.0-rc.1.23419.4.nupkg.sha512",
     "C:\\Users\\neilr\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\8.0.0-rc.1.23419.4\\microsoft.extensions.filesystemglobbing.8.0.0-rc.1.23419.4.nupkg.sha512",
+    "C:\\Users\\neilr\\.nuget\\packages\\microsoft.extensions.identity.core\\7.0.11\\microsoft.extensions.identity.core.7.0.11.nupkg.sha512",
+    "C:\\Users\\neilr\\.nuget\\packages\\microsoft.extensions.identity.stores\\7.0.11\\microsoft.extensions.identity.stores.7.0.11.nupkg.sha512",
     "C:\\Users\\neilr\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0-rc.1.23419.4\\microsoft.extensions.logging.8.0.0-rc.1.23419.4.nupkg.sha512",
     "C:\\Users\\neilr\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0-rc.1.23419.4\\microsoft.extensions.logging.abstractions.8.0.0-rc.1.23419.4.nupkg.sha512",
     "C:\\Users\\neilr\\.nuget\\packages\\microsoft.extensions.options\\8.0.0-rc.1.23419.4\\microsoft.extensions.options.8.0.0-rc.1.23419.4.nupkg.sha512",
