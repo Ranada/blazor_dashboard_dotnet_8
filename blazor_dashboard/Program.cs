@@ -2,7 +2,8 @@ using blazor_dashboard.Components;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// Add
+// to the container.
 builder.Services.AddRazorComponents()
     .AddServerComponents()
     .AddWebAssemblyComponents();

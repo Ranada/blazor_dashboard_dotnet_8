@@ -1,8 +1,9 @@
 ﻿@page "/render-mode-4"
 @attribute [RenderModeAuto]
+@inject IConfiguration Configuration
 
-<h3>Using RenderModeAuto on client side</h3>
-
+<h3 style="color:@Configuration["fontBlue"]">Using RenderModeAuto on client side</h3>
+<h3 style="font-size:@Configuration["h1FontSize"]">Configuration example</h3>
 <button @onclick="UpdateMessage">Click me</button> @message
 
 @code {
